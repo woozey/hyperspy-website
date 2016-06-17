@@ -1,5 +1,5 @@
-HyperSpy 0.8.5  have been released!
-=============================================
+HyperSpy 0.8.5  have has released!
+==================================
 
 .. feed-entry::
    :date: 2016-6-2
